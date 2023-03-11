@@ -1,0 +1,30 @@
+# Python 1.ÖDEV
+
+
+##1- Python'da Veri Tiplerini araştırınız, her bir veri tipi için kendi cümlelerinizle açıklamalar yazınız.
+# str-string = Metin tipleri için kullanılır.
+# int= Tam sayıları kapsar ve sayısal bir veri tipidir.
+# float= ondalik sayilari kapsar bu da sayisal bir veri tipidir.
+# bool = Mantiksal bir veri tipidir. True ya da false değerler alır.
+# list = Bileşik veri tiplerine denir. [] ile gösteririz.Birden fazla aynı ya da farklı türden verileri barındırabilir. Liste içerisinde veri ekleme, çıkarma işlemleri yapılabilir.
+
+
+## 2- Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+# string olarak ders programi,odev tanimi,ogrenci yorumlari
+# int olarak dersin tamamlanma yuzdesi
+# bool olarak bitir butonu
+# list= Ana sayfada yer alan kurslar ve egitmenler.
+
+
+
+##3 Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendirin
+
+#email = "batibati@gmail.com"
+# sifre = "123456"
+
+# if email == "batibati@gmail.com":
+    # if sifre == "123456":          
+        # print("Giris Yaptiniz")
+# elif email == "batibati@gmail.com":
+    # if password != "password":
+        # print("Email adresiniz veya sifreniz hatali. Lutfen tekrar deneyiniz.")
